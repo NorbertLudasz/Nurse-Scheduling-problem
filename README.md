@@ -25,6 +25,7 @@ Example of Test results:
 Simulated annealing results:  [440 502 395 196 393 393 318 470 376 284] <br/>
 Average of Simulated annealing results:  376.7 <br/>
 Std Deviation of Simulated annealing results:  86.00587189256323 <br/>
+<br/>
 ABC results:  [104  91 127 112 113 152 118 135  99 142] <br/>
 Average of ABC results:  119.3 <br/>
 Std Deviation of ABC results:  18.52592777703724 <br/>
