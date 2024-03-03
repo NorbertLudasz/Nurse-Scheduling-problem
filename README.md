@@ -21,6 +21,7 @@ Example of Test results:
 -	Number of days: 20
 -	Number of iterations for simulation annealing: 20
 -	Number of iterations for ABC: 10
+-	
 Simulated annealing results:  [440 502 395 196 393 393 318 470 376 284]
 Average of Simulated annealing results:  376.7
 Std Deviation of Simulated annealing results:  86.00587189256323
